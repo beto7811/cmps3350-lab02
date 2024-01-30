@@ -1,0 +1,1 @@
+This is my first time using git and my second attemp at this lab. I ran into some issues the first time around.
